@@ -1,0 +1,1 @@
+docker run --privileged -d --restart=unless-stopped -p 8443:443 rancher/rancher:v2.4.2
